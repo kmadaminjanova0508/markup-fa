@@ -1,0 +1,5 @@
+//Checklist 
+Auth done but  Apple Id button need to be fiexed and fix background scroll
+in page newdebt and remove dept bg-shadow should be fiexed
+yangi qarz and qarz uzish btns also should be fixed as in ui 
+At home hidden page change font

@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "tailwindcss": "3.4.0"
+  },
+  "name": "html-",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss build ./styles.css -o ./dist/output.css"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
