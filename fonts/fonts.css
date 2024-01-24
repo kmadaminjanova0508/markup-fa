@@ -1,0 +1,22 @@
+@font-face {
+    font-family: vkbold;
+    src: url(./VKSansDisplay-Bold.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: vkthin;
+    src: url(./VKSansDisplay-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: vkbtn;
+    src: url(./VKSansDisplay-Regular.ttf);
+    font-weight: 500;
+
+}
+@font-face {
+    font-family: vkmid;
+    src: url(./VKSansDisplay-Medium.ttf);
+    font-weight: 600;
+
+}
