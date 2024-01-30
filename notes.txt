@@ -21,3 +21,168 @@ At home hidden page change font
 
     </div>
 </div>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../dist/output.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://db.onlinewebfonts.com/c/5795a47e252d16c82bb79fa354b224db?family=VK+Sans+Display+Regular" rel="stylesheet">
+
+
+    <title>Home</title>
+</head>
+<body style="background: url(../img/screenshott.png); background-repeat:no-repeat; background-size: cover; margin: 0;">
+<div class="lg:px-10 flex  flex-col  px-16" style="width: 500px; margin-top:118px; ">
+    <h2 class="text-xl text-gray-500 mb-1" style="font-family: vkthin; font-size:20px;">Ja'mi:</h2>
+    <h2 class="  text-stone-950" style="font-family:vkbold;
+ font-weight: 900; font-size: 50px; line-height: 62.5px;"><a href="./homehidenb.html">123 456.78$</a></h2>
+
+</div>
+<div class="rounded-xl "  style="background:
+#ffffffc3;  margin-top:60px;">
+<div class=" relative px-5 flex  flex-col rounded-sm">
+   <div class=" mt-4 flex flex-row relative" >
+   <a href="./search.html" class="w-full">
+    <input class="  rounded-md w-full  focus:outline-0 p-2  border-2 pl-3 placeholder:font-light" type="text" placeholder="Telefon raqami.."> 
+    <button class=" absolute right-4 top-3 text-gray-400"><img src="../img/search.svg" alt=""></button>
+  </a>
+</div>
+<ul role="list"  class="divide-y divide-gray-300 py-0 ">
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Azizbek Muratov</a></p>
+            <p class="mt-1 truncate text-xs leading-5 " style="font-family: vkthin; font-size:12px; line-height: 15px; color: #525252;">+998 99 100-2398</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">10 500$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Alibaba</a></p>
+            <p class="mt-1 truncate text-xs leading-5 text-gray-900" style="font-family: vkthin; font-size: 12px; line-height: 15px; color: #525252;">+998 99 100-5467</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">99 999$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Ism</a></p>
+            <p class="mt-1 truncate text-xs leading-5 text-gray-900" style="font-family: vkthin; font-size: 12px; line-height: 15px; color: #525252;" >+998 99 999-9999</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">99 999$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Ism</a></p>
+            <p class="mt-1 truncate text-xs leading-5 " style="font-family: vkthin; font-size: 12px; line-height: 15px; color: #525252;">+998 99 999-9999</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">99 999$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Ism</a></p>
+            <p class="mt-1 truncate text-xs leading-5 " style="font-family: vkthin; font-size: 12px; line-height: 15px; color: #525252;">+998 99 999-9999</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">99 999$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Ism</a></p>
+            <p class="mt-1 truncate text-xs leading-5 text-gray-900" style="font-family: vkthin; font-size: 12px; line-height: 15px; color: #525252;">+998 99 999-9999</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">99 999$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Ism</a></p>
+            <p class="mt-1 truncate text-xs leading-5"  style="font-family: vkthin; font-size: 12px; line-height: 15px; color: #525252;">+998 99 999-9999</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">99 999$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    
+    <li class="flex justify-between py-5 px-1 ">
+        <div class="flex min-w-0 gap-x-4" >
+          <div class="min-w-0 flex-auto">
+            <p class="text-xl font-semibold leading-6 text-gray-900" style="font-family: VK Sans Display Regular ; font-size: 21px;"><a href="../pages/client.html">Ism</a></p>
+            <p class="mt-1 truncate text-xs leading-5 " style="font-family: vkthin; font-size: 12px; line-height: 15px; color: #525252;">+998 99 999-9999</p>
+          </div>
+        </div>
+        <div class="flex flex-row items-center" style="gap:15px;">
+          <p class=" flex text-xl leading-6 text-white gap-2 rounded-md py-0.5 px-3 font-thin"  style="font-family: VK Sans Display Regular ; background: url(../img/bg-price.png) ; background-size:cover;   font-size: 16px; font-weight: 500;">99 999$ </p>
+          <a href="#" class=""><img src="../img/arrowright.svg" alt=""></a>
+          
+        </div>
+      </li>
+    
+  
+    
+   
+    
+
+  
+    
+
+ 
+   
+     
+</ul>
+</div>
+</div>
+</body>
+</html>
+
+<style>
+  @import url(../fonts/fonts.css);
+</style>
+
+ class="lg:px-10 flex  flex-col  px-16" style="width: 500px; margin-top:118px; "
