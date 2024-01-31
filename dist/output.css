@@ -2135,3 +2135,9 @@ video {
     color: rgb(209 213 219 / var(--tw-placeholder-opacity));
   }
 }
+
+.sm-auto{
+  @media screen and (max-width: 310px){
+    
+  }
+}
