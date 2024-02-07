@@ -20,3 +20,17 @@
     font-weight: 600;
 
 }
+@font-face {
+    font-family: vkreg;
+    src: url(./VKSansDisplay-Medium.ttf);
+    font-weight: 700;
+
+}
+
+@font-face {
+    font-family: login;
+    src: url(./FontsFree-Net-SFProDisplay-Regular-1.ttf);
+    font-weight: 400;
+
+}
+

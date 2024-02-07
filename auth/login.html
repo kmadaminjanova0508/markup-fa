@@ -4,19 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../dist/output.css" rel="stylesheet">
-    <title>Log in</title>
+    <title>login</title>
 </head>
-<body class="bg-cover  bg-top   h-full scroll-none bg-no-repeat" style="background-image: url('../img/bgauth.png');background-repeat: no-repeat; background-size: 500px;  ">
-  <div class="items-center justify-center h-full">
-      <div class="flex justify-end items-end  " style="padding-top: 30px;">
+<body class="bg-cover  bg-top   h-full scroll-none bg-no-repeat">
+  <div class="items-center justify-center h-full"  style="background-image: url('../img/login-bg 2.png'); background-repeat: no-repeat; width: 100%; height: 42vh; background-size:cover;  ">
+      <div class="flex justify-end items-end  " style="padding-top: 30px; font-family: login; font-size:13px;">
           <span class="text-white font-light">Akkauntingiz yo'qmi?</span>
-          <button class="block rounded-md border-0 py-0.5 px-6  shadow-sm ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6 bg-slate-500 text-white ml-1.5 mt-4 mr-2"><a href="../auth/regester.html">Registratsiya</a></button>
+          <button class="block rounded-md border-0 py-0.5 px-6  shadow-sm ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6 no-repeat text-white ml-1.5 mt-4 mr-2" style="background-image: url(../img/login.png);
+          background-size: cover;"><a href="../auth/regester.html">Yaratish</a></button>
       </div>
     </div>
 
-  <div class="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8 mt-80">
-    <h2 class="text-center text-4xl font-medium leading-9 tracking-tight text-gray-900">Hozir boshlang</h2>
-    <span class="mt-2 text-center text-2xl font-light leading-9 tracking-tight text-black mb-5">Iltimos, ma'lumotingizni kiriting</span>
+  <div class="flex min-h-full flex-col justify-center" style="">
+    <h2 class="text-center font-medium leading-9 tracking-tight text-gray-900" style=" font-family: vkreg; font-weight: 700; font-size: 28px;   line-height:34px; margin-top:34px;">Hozir boshlang</h2>
+    <span class="mt-1 text-center text-2xl font-light leading-9 tracking-tight mb-5" style="font-size: 16px; line-height:22px; color:
+    #5C5C5C; ">Iltimos, ma'lumotingizni kiriting</span>
     <form 
     class=" container space-y-2 mx-auto w-full max-w-sm "
     action="submit">
@@ -36,7 +38,7 @@
             class="block w-full px-3 rounded-md border-0 py-2 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-950 sm:text-sm sm:leading-6  " style="background: #fafafae1;"
           />
           <div class="mt-4">
-            <button class=" w-full mt-5 rounded-md border-0 py-3   sm:text-sm   text-white " style="background: url(../img/phonebtn.png);"><a href="../pages/home.html">Kirish</a></button>
+            <button class=" w-full mt-5 rounded-md border-0 py-3   sm:text-sm   text-white " style="background: url(../img/bg-price.png); background-size: cover; background-position: 120%"><a href="../pages/home.html">Krish</a></button>
           </div>
          
     </form>
@@ -57,3 +59,6 @@
  
 </body>
 </html>
+<style>
+  @import url(../fonts/fonts.css);
+</style>
