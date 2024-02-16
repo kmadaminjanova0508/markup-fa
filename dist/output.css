@@ -2179,7 +2179,8 @@ ul {
 }
 
 .header__nav-drop-link {
-  padding: 12px 30px;
+  padding: 12px 14px 15px 14px;
+  gap: 10px;
 }
 
 
